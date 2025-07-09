@@ -28,7 +28,7 @@ HandsMen Threads is embarking on a Salesforce implementation to improve how cust
 
 ---
 
-## 🧠 What You'll Learn
+
 
 | 🔧 Skill                   | 📘 Description                                                                 |
 |---------------------------|--------------------------------------------------------------------------------|
@@ -48,7 +48,6 @@ HandsMen Threads is embarking on a Salesforce implementation to improve how cust
 
 ---
 
-### ✅ Deliverables
 
 #### 1. 🔐 Salesforce Credentials Setup
 - Developer Edition created
